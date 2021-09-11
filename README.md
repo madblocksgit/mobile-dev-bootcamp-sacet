@@ -1,6 +1,10 @@
 # About-Repo
 Official Repo of 3-day Mobile Dev Bootcamp organized by madBlocks Academy for the II Year students of Department of CSE, St Anns College of Engineering and Technology, Chirala.
 
+# About Speaker
+<img src="https://raw.githubusercontent.com/madblocksgit/ETAI-2021---VSSUT-11th-aug-iot-session/main/maddy.jpg" height="300" width="200" />
+Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group and Director & Strategist at Madblocks Technologies Pvt Ltd. He has 10+ years of experience in building IoT products from prototype stage to production stage. He trained more than 1.8 lakh students and 10K+ faculties across India on various cutting-edge technologies like IoT, Machine Learning, Cloud Computing, Augmented and Virtual Reality, Robotics, Blockchain etc...
+
 # Dates:
 Bootcamp - 11th to 13th Sept 2021
 Project Activity - 14th Sept to 25th Sept 2021
