@@ -4,26 +4,26 @@ Official Repo of 3-day Mobile Dev Bootcamp organized by madBlocks Academy for th
 # APP8
 EditText Demo
 
-#APP9
+# APP9
 SeekBar Demo
 
-#APP10
+# APP10
 Toggle Button Demo
 
-#APP11
+# APP11
 Static Call Demo
 
-#APP12
+# APP12
 Dynamic Call Demo
 
-#APP13
+# APP13
 Message Demo
 
-#APP14
+# APP14
 Static Email Demo
 
-#APP15
+# APP15
 Text to Speech Demo
 
-#APP16
+# APP16
 Speech to Text Demo
